@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Automation</string>
+    <string name="accessibility_service_description">Dịch vụ này cho phép ghi lại và tự động hóa các thao tác trên thiết bị của bạn.</string>
+    
+    <!-- Main Activity -->
+    <string name="start_recording">Bắt đầu Ghi</string>
+    <string name="stop_recording">Dừng Ghi</string>
+    <string name="saved_scenarios">Kịch bản đã lưu</string>
+    <string name="no_scenarios">Chưa có kịch bản nào được lưu</string>
+    
+    <!-- Dialogs -->
+    <string name="permission_required">Cần quyền truy cập</string>
+    <string name="permission_explanation">Ứng dụng cần quyền Accessibility Service để hoạt động. Vui lòng bật trong cài đặt.</string>
+    <string name="open_settings">Mở cài đặt</string>
+    <string name="cancel">Hủy</string>
+    <string name="save">Lưu</string>
+    <string name="delete">Xóa</string>
+    <string name="delete_confirmation">Bạn có chắc muốn xóa kịch bản này?</string>
+    <string name="save_scenario">Lưu kịch bản</string>
+    <string name="scenario_name_hint">Nhập tên kịch bản</string>
+    
+    <!-- Scenario Item -->
+    <string name="repeat_count">Số lần lặp lại:</string>
+    <string name="delay_time">Thời gian delay (ms):</string>
+    <string name="play">Phát lại</string>
+    <string name="playing">Đang phát... (%1$d/%2$d)</string>
+    
+    <!-- Messages -->
+    <string name="recording_started">Đang ghi lại thao tác...</string>
+    <string name="no_actions_recorded">Không có thao tác nào được ghi lại</string>
+    <string name="scenario_save_failed">Không thể lưu kịch bản. Vui lòng thử lại.</string>
+    <string name="playback_error">Có lỗi xảy ra khi phát lại kịch bản.</string>
+    <string name="name_required">Vui lòng nhập tên kịch bản</string>
+</resources>
